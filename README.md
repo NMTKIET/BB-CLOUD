@@ -2,10 +2,6 @@
 
 A command-line tool to automate BeibeiCloud account creation, inviting, and ad-watching tasks, specifically configured for use in Termux.
 
-## Tutorial 
-
-https://youtu.be/ovewqi7d5i4
-
 ## Features
 
 - **Account Creator**: Automatically creates accounts using a temporary email service and Tor for IP rotation.
